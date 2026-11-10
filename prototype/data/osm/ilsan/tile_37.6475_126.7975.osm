@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.1 (4007056 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6475000" minlon="126.7975000" maxlat="37.6550000" maxlon="126.8000000"/>
+ <node id="358924991" visible="true" version="16" changeset="175105279" timestamp="2025-11-25T11:20:57Z" user="LuxuryCoop" uid="7245212" lat="37.6520334" lon="126.7972584">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송7단지삼거리"/>
+  <tag k="name:en" v="Baeksong 7 Complex Samgeori"/>
+  <tag k="name:ko" v="백송7단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 7 Danjisamgeori"/>
+ </node>
+ <node id="806428636" visible="true" version="9" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6504996" lon="126.7981759">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="KT삼거리"/>
+ </node>
+ <node id="806428924" visible="true" version="7" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6452913" lon="126.8011826">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="열병합발전소삼거리"/>
+  <tag k="name:en" v="Yeolbyeonghapbaljeonsosamgeori"/>
+  <tag k="name:ko" v="열병합발전소삼거리"/>
+  <tag k="name:ko-Latn" v="Yeolbyeonghapbaljeonsosamgeori"/>
+ </node>
+ <node id="806429054" visible="true" version="3" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6542143" lon="126.7960037"/>
+ <node id="3008086121" visible="true" version="6" changeset="175105279" timestamp="2025-11-25T11:20:57Z" user="LuxuryCoop" uid="7245212" lat="37.6490208" lon="126.7933066">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송10단지사거리"/>
+  <tag k="name:en" v="Baeksong 10 Complex Crossroad"/>
+  <tag k="name:ko" v="백송10단지사거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 10 Danjisageori"/>
+ </node>
+ <node id="3181504087" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6517783" lon="126.8086401">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="3181505066" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6532754" lon="126.8141287">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="3966746408" visible="true" version="1" changeset="36802635" timestamp="2016-01-25T18:47:13Z" user="georhoko" uid="1708958" lat="37.6491066" lon="126.7936007"/>
+ <node id="3966746409" visible="true" version="2" changeset="114091751" timestamp="2021-11-22T10:33:48Z" user="한창훈" uid="2281401" lat="37.6492191" lon="126.7940238"/>
+ <node id="3966746410" visible="true" version="1" changeset="36802635" timestamp="2016-01-25T18:47:13Z" user="georhoko" uid="1708958" lat="37.6492948" lon="126.7945686"/>
+ <node id="3966746412" visible="true" version="1" changeset="36802635" timestamp="2016-01-25T18:47:14Z" user="georhoko" uid="1708958" lat="37.6493590" lon="126.7950034"/>
+ <node id="3966746413" visible="true" version="1" changeset="36802635" timestamp="2016-01-25T18:47:14Z" user="georhoko" uid="1708958" lat="37.6494737" lon="126.7954323"/>
+ <node id="3966746417" visible="true" version="1" changeset="36802635" timestamp="2016-01-25T18:47:14Z" user="georhoko" uid="1708958" lat="37.6500933" lon="126.7970958"/>
+ <node id="4364321707" visible="true" version="2" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6526307" lon="126.7973228"/>
+ <node id="4364321708" visible="true" version="2" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6514297" lon="126.7981904"/>
+ <node id="4364321709" visible="true" version="2" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6499521" lon="126.7988670"/>
+ <node id="4364321710" visible="true" version="2" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6483875" lon="126.7998148"/>
+ <node id="4364321711" visible="true" version="2" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6470339" lon="126.8007299"/>
+ <node id="4643699416" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6423050" lon="126.7964302"/>
+ <node id="4643699417" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6425225" lon="126.7960959"/>
+ <node id="4643699418" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6430424" lon="126.7958571"/>
+ <node id="4643699419" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6433450" lon="126.7951646"/>
+ <node id="4643699420" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6442809" lon="126.7947945"/>
+ <node id="4643699421" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6446874" lon="126.7967048"/>
+ <node id="4643699422" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6453680" lon="126.7969913"/>
+ <node id="4643699423" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6459731" lon="126.7968600"/>
+ <node id="4643699424" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6470602" lon="126.7959884"/>
+ <node id="4643699425" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6473438" lon="126.7954750"/>
+ <node id="4643699426" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6492817" lon="126.7951049"/>
+ <node id="4643699427" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6502932" lon="126.7979942"/>
+ <node id="4643699428" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6453491" lon="126.8009909"/>
+ <node id="4643699429" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6445928" lon="126.7990210"/>
+ <node id="4643699430" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6441863" lon="126.7975286"/>
+ <node id="4643699431" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6438365" lon="126.7972420"/>
+ <node id="4643699432" visible="true" version="1" changeset="45643185" timestamp="2017-01-30T08:00:10Z" user="lowfatgas" uid="5189417" lat="37.6426548" lon="126.7967525"/>
+ <node id="4686234390" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:46Z" user="오민석" uid="5231494" lat="37.6584222" lon="126.7977833"/>
+ <node id="4686234393" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:46Z" user="오민석" uid="5231494" lat="37.6583415" lon="126.7978584"/>
+ <node id="4686234396" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6590125" lon="126.7972550"/>
+ <node id="4686234397" visible="true" version="3" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6548782" lon="126.7979094"/>
+ <node id="4686234402" visible="true" version="3" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6581923" lon="126.7980784"/>
+ <node id="4686234403" visible="true" version="2" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6582003" lon="126.7980475"/>
+ <node id="4686234411" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6581079" lon="126.7982339"/>
+ <node id="4686234427" visible="true" version="2" changeset="55513360" timestamp="2018-01-17T07:14:55Z" user="한창훈" uid="2281401" lat="37.6609533" lon="126.7954355"/>
+ <node id="4686234430" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6603714" lon="126.7996190"/>
+ <node id="4686234437" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:47Z" user="오민석" uid="5231494" lat="37.6482398" lon="126.8009939"/>
+ <node id="4686234443" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6594542" lon="126.7990574"/>
+ <node id="4686234451" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:47Z" user="오민석" uid="5231494" lat="37.6488958" lon="126.8005189"/>
+ <node id="4686234456" visible="true" version="4" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6524934" lon="126.7987114"/>
+ <node id="4686234471" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6546403" lon="126.7979738"/>
+ <node id="4686234478" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:47Z" user="오민석" uid="5231494" lat="37.6583903" lon="126.7983815"/>
+ <node id="4686234488" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6544046" lon="126.7980650"/>
+ <node id="4686234489" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6599128" lon="126.7991673"/>
+ <node id="4686234493" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6542263" lon="126.7981374"/>
+ <node id="4686234496" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6509984" lon="126.7992452"/>
+ <node id="4686234504" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6545278" lon="126.7980275"/>
+ <node id="4686234506" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6538143" lon="126.7982984"/>
+ <node id="4686234514" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:47Z" user="오민석" uid="5231494" lat="37.6579932" lon="126.7982095"/>
+ <node id="4686234515" visible="true" version="3" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6598290" lon="126.7965402"/>
+ <node id="4686234526" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6530477" lon="126.7985049"/>
+ <node id="4686234527" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6498346" lon="126.7999103"/>
+ <node id="4686234540" visible="true" version="1" changeset="46095999" timestamp="2017-02-15T04:27:48Z" user="오민석" uid="5231494" lat="37.6605519" lon="126.7958280"/>
+ <node id="4686234549" visible="true" version="3" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6603365" lon="126.7960373"/>
+ <node id="4686234558" visible="true" version="2" changeset="55513360" timestamp="2018-01-17T07:14:55Z" user="한창훈" uid="2281401" lat="37.6613368" lon="126.7950531"/>
+ <node id="4686234566" visible="true" version="3" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6562107" lon="126.7979510"/>
+ <node id="4686234568" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6504292" lon="126.7995348"/>
+ <node id="4686234571" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6506352" lon="126.7994061"/>
+ <node id="4686234577" visible="true" version="3" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6604511" lon="126.7959407"/>
+ <node id="4686234579" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6602281" lon="126.7995603"/>
+ <node id="4686234580" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6587832" lon="126.7984632"/>
+ <node id="4686234590" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6502125" lon="126.7996740"/>
+ <node id="4686234599" visible="true" version="3" changeset="170474669" timestamp="2025-08-15T10:43:20Z" user="한창훈" uid="2281401" lat="37.6613821" lon="126.7950080"/>
+ <node id="4686234601" visible="true" version="3" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6601486" lon="126.7962264"/>
+ <node id="4686234604" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6553453" lon="126.7978343"/>
+ <node id="4686234608" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6592960" lon="126.7970042"/>
+ <node id="4686234612" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6591718" lon="126.7971155"/>
+ <node id="4686234613" visible="true" version="3" changeset="170474669" timestamp="2025-08-15T10:43:20Z" user="한창훈" uid="2281401" lat="37.6614262" lon="126.7949088"/>
+ <node id="4688929895" visible="true" version="2" changeset="55513360" timestamp="2018-01-17T07:14:55Z" user="한창훈" uid="2281401" lat="37.6605764" lon="126.7956873"/>
+ <node id="4688929896" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6535382" lon="126.7982259"/>
+ <node id="4688929899" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6547699" lon="126.7977901"/>
+ <node id="4688929904" visible="true" version="3" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6562669" lon="126.7977512"/>
+ <node id="4688929915" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6538345" lon="126.7981374"/>
+ <node id="4688929917" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:41Z" user="오민석" uid="5231494" lat="37.6599104" lon="126.7963026"/>
+ <node id="4688929918" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:41Z" user="오민석" uid="5231494" lat="37.6598067" lon="126.7964075"/>
+ <node id="4688929922" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6589680" lon="126.7971732"/>
+ <node id="4688929923" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6546520" lon="126.7978451"/>
+ <node id="4688929924" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:42Z" user="오민석" uid="5231494" lat="37.6606730" lon="126.7955975"/>
+ <node id="4688929927" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6532791" lon="126.7983158"/>
+ <node id="4688929936" visible="true" version="2" changeset="46511994" timestamp="2017-03-02T04:07:05Z" user="wwsun98" uid="4967491" lat="37.6575855" lon="126.7979149"/>
+ <node id="4688929948" visible="true" version="3" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6579237" lon="126.7980095"/>
+ <node id="4688929949" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6543834" lon="126.7979430"/>
+ <node id="4688929953" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6603758" lon="126.7958884"/>
+ <node id="4688929967" visible="true" version="3" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6580262" lon="126.7980201"/>
+ <node id="4688929976" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6596018" lon="126.7965985"/>
+ <node id="4688929978" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:42Z" user="오민석" uid="5231494" lat="37.6583904" lon="126.7976735"/>
+ <node id="4688930192" visible="true" version="2" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6581151" lon="126.7979837"/>
+ <node id="4688930196" visible="true" version="3" changeset="170474669" timestamp="2025-08-15T10:43:20Z" user="한창훈" uid="2281401" lat="37.6613397" lon="126.7949311"/>
+ <node id="4688930198" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:42Z" user="오민석" uid="5231494" lat="37.6600105" lon="126.7962117"/>
+ <node id="4688930202" visible="true" version="2" changeset="55513360" timestamp="2018-01-17T07:14:55Z" user="한창훈" uid="2281401" lat="37.6605170" lon="126.7957477"/>
+ <node id="4688930203" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:43Z" user="오민석" uid="5231494" lat="37.6598552" lon="126.7963616"/>
+ <node id="4688930204" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6542539" lon="126.7979872"/>
+ <node id="4688930206" visible="true" version="2" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6581852" lon="126.7978744"/>
+ <node id="4688930208" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6552296" lon="126.7976761"/>
+ <node id="4688930209" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6550937" lon="126.7977069"/>
+ <node id="4688930211" visible="true" version="2" changeset="89279776" timestamp="2020-08-12T05:19:49Z" user="Popolopen" uid="9447012" lat="37.6595115" lon="126.7966723"/>
+ <node id="4688930212" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6549674" lon="126.7977351"/>
+ <node id="4688930216" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6553517" lon="126.7976761"/>
+ <node id="4688930218" visible="true" version="1" changeset="46139178" timestamp="2017-02-16T14:54:43Z" user="오민석" uid="5231494" lat="37.6606263" lon="126.7956431"/>
+ <node id="4688930221" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6540097" lon="126.7980784"/>
+ <node id="4688930222" visible="true" version="3" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6564305" lon="126.7977726"/>
+ <node id="4688930223" visible="true" version="2" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6581441" lon="126.7979243"/>
+ <node id="4690612691" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6529712" lon="126.7984097"/>
+ <node id="4690612692" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6486076" lon="126.8003428"/>
+ <node id="4690612693" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6505487" lon="126.7992458"/>
+ <node id="4690612694" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6527440" lon="126.7984942"/>
+ <node id="4690612695" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6482785" lon="126.8006003"/>
+ <node id="4690612696" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6499413" lon="126.7995864"/>
+ <node id="4690612697" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6468912" lon="126.8014633"/>
+ <node id="4690612698" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6476583" lon="126.8010294"/>
+ <node id="4690612700" visible="true" version="2" changeset="55524080" timestamp="2018-01-17T14:59:32Z" user="한창훈" uid="2281401" lat="37.6464176" lon="126.8017623"/>
+ <node id="4690612701" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6509326" lon="126.7990816"/>
+ <node id="4690612703" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6492400" lon="126.7999908"/>
+ <node id="4690612704" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6511046" lon="126.7990279"/>
+ <node id="4690612705" visible="true" version="1" changeset="46166642" timestamp="2017-02-17T14:44:19Z" user="오민석" uid="5231494" lat="37.6484781" lon="126.8004340"/>
+ <node id="4690612706" visible="true" version="3" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6520374" lon="126.7987307"/>
+ <node id="4690612709" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6530986" lon="126.7983708"/>
+ <node id="4690612710" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6524000" lon="126.7986149"/>
+ <node id="4690629591" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6457091" lon="126.8025501"/>
+ <node id="4690629592" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6479369" lon="126.8012546"/>
+ <node id="4690629593" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6479921" lon="126.8012010"/>
+ <node id="4690629594" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6480473" lon="126.8011769"/>
+ <node id="4690629595" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6483361" lon="126.8009864"/>
+ <node id="4690629596" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6485082" lon="126.8008469"/>
+ <node id="4690629597" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6492430" lon="126.8003534"/>
+ <node id="4690629598" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6497633" lon="126.8000208"/>
+ <node id="4690629599" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6508527" lon="126.7994093"/>
+ <node id="4690629600" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6514006" lon="126.7991840"/>
+ <node id="4690629601" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6523140" lon="126.7989139"/>
+ <node id="4690629602" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6527865" lon="126.7987785"/>
+ <node id="4690629603" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6530838" lon="126.7986605"/>
+ <node id="4690629604" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6536898" lon="126.7984464"/>
+ <node id="4690629605" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6540254" lon="126.7983458"/>
+ <node id="4690629606" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6542738" lon="126.7982425"/>
+ <node id="4690629607" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6544055" lon="126.7981835"/>
+ <node id="4690629608" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6544925" lon="126.7981272"/>
+ <node id="4690629609" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6548811" lon="126.7979823"/>
+ <node id="4690629610" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6550998" lon="126.7979180"/>
+ <node id="4690629611" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6552188" lon="126.7978992"/>
+ <node id="4690629612" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6553143" lon="126.7978831"/>
+ <node id="4690629613" visible="true" version="2" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6553929" lon="126.7979233"/>
+ <node id="4690629640" visible="true" version="2" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6554693" lon="126.7975425"/>
+ <node id="4690629642" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6553886" lon="126.7975264"/>
+ <node id="4690629643" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6553016" lon="126.7975317"/>
+ <node id="4690629644" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6552676" lon="126.7975505"/>
+ <node id="4690629645" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6551224" lon="126.7976090"/>
+ <node id="4690629646" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6550141" lon="126.7976385"/>
+ <node id="4690629647" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6547614" lon="126.7977297"/>
+ <node id="4690629648" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6544195" lon="126.7978504"/>
+ <node id="4690629649" visible="true" version="4" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401" lat="37.6539190" lon="126.7980344"/>
+ <node id="4690629650" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6537952" lon="126.7980771"/>
+ <node id="4690629651" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6535828" lon="126.7981321"/>
+ <node id="4690629652" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6532367" lon="126.7982259"/>
+ <node id="4690629653" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6526909" lon="126.7984298"/>
+ <node id="4690629654" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6520751" lon="126.7986605"/>
+ <node id="4690629655" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6515622" lon="126.7988026"/>
+ <node id="4690629656" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6511768" lon="126.7989193"/>
+ <node id="4690629657" visible="true" version="3" changeset="46413380" timestamp="2017-02-26T11:29:05Z" user="pnorman redaction revert" uid="760215" lat="37.6494171" lon="126.7998304"/>
+ <node id="4690629658" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6521483" lon="126.7989635"/>
+ <node id="4690629670" visible="true" version="1" changeset="46166998" timestamp="2017-02-17T14:57:03Z" user="오민석" uid="5231494" lat="37.6469584" lon="126.8018236"/>
+ <node id="4712721523" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6603102" lon="126.7996106"/>
+ <node id="4712721524" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6604238" lon="126.7995034"/>
+ <node id="4712721525" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6593494" lon="126.7988087"/>
+ <node id="4712721526" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6582877" lon="126.7981649"/>
+ <node id="4712721529" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6582251" lon="126.7982830"/>
+ <node id="4712721530" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6582017" lon="126.7981113"/>
+ <node id="4712721531" visible="true" version="2" changeset="89279998" timestamp="2020-08-12T05:24:02Z" user="Popolopen" uid="9447012" lat="37.6580907" lon="126.7980148"/>
+ <node id="4712721532" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6578460" lon="126.7981944"/>
+ <node id="4712721533" visible="true" version="1" changeset="46511994" timestamp="2017-03-02T04:06:55Z" user="wwsun98" uid="4967491" lat="37.6576507" lon="126.7981783"/>
+ <node id="4712721535" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6552392" lon="126.7978290"/>
+ <node id="4712721536" visible="true" version="2" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6551160" lon="126.7978477"/>
+ <node id="4712721537" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6512936" lon="126.7989904"/>
+ <node id="4712721538" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6515548" lon="126.7988992"/>
+ <node id="4712721539" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6515314" lon="126.7990145"/>
+ <node id="5172386352" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:11Z" user="TerryYoon" uid="6808368" lat="37.6550359" lon="126.8010865"/>
+ <node id="5172386454" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6486315" lon="126.8007641"/>
+ <node id="5172386455" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6514875" lon="126.8029881"/>
+ <node id="5172386456" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6503244" lon="126.7997058"/>
+ <node id="5172386457" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6535287" lon="126.7998971"/>
+ <node id="5172386458" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6541794" lon="126.8015923"/>
+ <node id="5172386459" visible="true" version="2" changeset="110047329" timestamp="2021-08-22T04:25:11Z" user="한창훈" uid="2281401" lat="37.6543476" lon="126.8020632"/>
+ <node id="5172386464" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:13Z" user="TerryYoon" uid="6808368" lat="37.6460191" lon="126.8023698"/>
+ <node id="5172386829" visible="true" version="4" changeset="114998503" timestamp="2021-12-16T09:42:24Z" user="한창훈" uid="2281401" lat="37.6533056" lon="126.7965339">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="5172386831" visible="true" version="2" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401" lat="37.6536708" lon="126.7973632"/>
+ <node id="5172386841" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:19Z" user="TerryYoon" uid="6808368" lat="37.6533018" lon="126.8021464"/>
+ <node id="5172386842" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:19Z" user="TerryYoon" uid="6808368" lat="37.6534759" lon="126.8026238"/>
+ <node id="5172386843" visible="true" version="1" changeset="53000732" timestamp="2017-10-17T05:21:19Z" user="TerryYoon" uid="6808368" lat="37.6537152" lon="126.8029472"/>
+ <node id="5344338728" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6464832" lon="126.8019362"/>
+ <node id="5344338731" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6466548" lon="126.8017792"/>
+ <node id="5344338732" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6481220" lon="126.8009130"/>
+ <node id="5344338733" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6485966" lon="126.8005004"/>
+ <node id="5344338734" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6510340" lon="126.7991172"/>
+ <node id="5344338735" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6537407" lon="126.7982016"/>
+ <node id="5344338736" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6531814" lon="126.7983734"/>
+ <node id="5344338737" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6519448" lon="126.7988184"/>
+ <node id="5344338738" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6549041" lon="126.7978067"/>
+ <node id="5344338739" visible="true" version="2" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6551925" lon="126.7977566"/>
+ <node id="5344338740" visible="true" version="2" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6555237" lon="126.7977619"/>
+ <node id="5344338741" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6566994" lon="126.7978623"/>
+ <node id="5344338742" visible="true" version="2" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6555938" lon="126.7977753"/>
+ <node id="5344338743" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6580721" lon="126.7980851"/>
+ <node id="5344338744" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6582513" lon="126.7978684"/>
+ <node id="5344338745" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6595765" lon="126.7966705"/>
+ <node id="5344338746" visible="true" version="3" changeset="170474669" timestamp="2025-08-15T10:43:20Z" user="한창훈" uid="2281401" lat="37.6614612" lon="126.7948810"/>
+ <node id="5344338747" visible="true" version="1" changeset="55513360" timestamp="2018-01-17T07:14:54Z" user="한창훈" uid="2281401" lat="37.6605638" lon="126.7957616"/>
+ <node id="5345042608" visible="true" version="1" changeset="55524080" timestamp="2018-01-17T14:59:32Z" user="한창훈" uid="2281401" lat="37.6465061" lon="126.8019941"/>
+ <node id="6070570529" visible="true" version="2" changeset="114998503" timestamp="2021-12-16T09:42:24Z" user="한창훈" uid="2281401" lat="37.6493262" lon="126.7947813">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="6070570531" visible="true" version="2" changeset="114998503" timestamp="2021-12-16T09:42:24Z" user="한창훈" uid="2281401" lat="37.6496479" lon="126.7958999">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="6550885311" visible="true" version="3" changeset="175105279" timestamp="2025-11-25T11:20:57Z" user="LuxuryCoop" uid="7245212" lat="37.6489767" lon="126.7931863">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송10단지사거리"/>
+  <tag k="name:en" v="Baeksong 10 Complex Crossroad"/>
+  <tag k="name:ko" v="백송10단지사거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 10 Danjisageori"/>
+ </node>
+ <node id="7805538301" visible="true" version="1" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6540022" lon="126.7982782"/>
+ <node id="7805538302" visible="true" version="1" changeset="89280393" timestamp="2020-08-12T05:32:17Z" user="Popolopen" uid="9447012" lat="37.6539353" lon="126.7980918"/>
+ <node id="7805557039" visible="true" version="1" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6521303" lon="126.7989099"/>
+ <node id="7805557040" visible="true" version="1" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012" lat="37.6520857" lon="126.7986900"/>
+ <node id="8163365922" visible="true" version="1" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6560401" lon="126.7978106"/>
+ <node id="8163365923" visible="true" version="1" changeset="94748558" timestamp="2020-11-25T06:01:28Z" user="Szrenica" uid="10892562" lat="37.6559866" lon="126.7978102"/>
+ <node id="8163385023" visible="true" version="1" changeset="94748879" timestamp="2020-11-25T06:07:18Z" user="Szrenica" uid="10892562" lat="37.6560737" lon="126.7977351"/>
+ <node id="8163385024" visible="true" version="1" changeset="94748879" timestamp="2020-11-25T06:07:18Z" user="Szrenica" uid="10892562" lat="37.6560822" lon="126.7979336"/>
+ <node id="8163385025" visible="true" version="1" changeset="94748879" timestamp="2020-11-25T06:07:18Z" user="Szrenica" uid="10892562" lat="37.6559803" lon="126.7977244"/>
+ <node id="8163385026" visible="true" version="1" changeset="94748879" timestamp="2020-11-25T06:07:18Z" user="Szrenica" uid="10892562" lat="37.6557339" lon="126.7978772"/>
+ <node id="8163385027" visible="true" version="1" changeset="94748879" timestamp="2020-11-25T06:07:18Z" user="Szrenica" uid="10892562" lat="37.6557170" lon="126.7976922"/>
+ <node id="8261177347" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6528379" lon="126.8106355">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="8261177353" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6499778" lon="126.7972103"/>
+ <node id="8261177354" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6493237" lon="126.7975992"/>
+ <node id="8261177355" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6496170" lon="126.7983869"/>
+ <node id="8261177356" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6502711" lon="126.7979979"/>
+ <node id="8261177357" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6498930" lon="126.7981964">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Maxar Premium Imagery (Beta)"/>
+ </node>
+ <node id="8261177358" visible="true" version="1" changeset="96443067" timestamp="2020-12-26T08:50:42Z" user="octel" uid="238290" lat="37.6501044" lon="126.7980811">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Maxar Premium Imagery (Beta)"/>
+ </node>
+ <node id="8261177359" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6504955" lon="126.7999348">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Maxar Premium Imagery (Beta)"/>
+ </node>
+ <node id="8261177360" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6499857" lon="126.8030837">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Maxar Premium Imagery (Beta)"/>
+ </node>
+ <node id="8261177361" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465" lat="37.6503401" lon="126.8062184">
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Maxar Premium Imagery (Beta)"/>
+ </node>
+ <node id="9025763293" visible="true" version="3" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6549397" lon="126.7956413">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송6단지삼거리"/>
+  <tag k="name:en" v="Baeksong 6 Complex Samgeori"/>
+  <tag k="name:ko" v="백송6단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 6 Danjisamgeori"/>
+ </node>
+ <node id="9025763295" visible="true" version="3" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6550607" lon="126.7955706">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송6단지삼거리"/>
+  <tag k="name:en" v="Baeksong 6 Complex Samgeori"/>
+  <tag k="name:ko" v="백송6단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 6 Danjisamgeori"/>
+ </node>
+ <node id="9025772217" visible="true" version="1" changeset="110046968" timestamp="2021-08-22T03:42:55Z" user="한창훈" uid="2281401" lat="37.6536559" lon="126.7973307"/>
+ <node id="9025772240" visible="true" version="3" changeset="114178112" timestamp="2021-11-24T11:26:30Z" user="한창훈" uid="2281401" lat="37.6535142" lon="126.7964136"/>
+ <node id="9025785993" visible="true" version="2" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6555645" lon="126.7980556"/>
+ <node id="9034290193" visible="true" version="2" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6520514" lon="126.7987812"/>
+ <node id="9034290194" visible="true" version="2" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6520755" lon="126.7988448"/>
+ <node id="9034290196" visible="true" version="2" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6539098" lon="126.7981497"/>
+ <node id="9034290210" visible="true" version="2" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6596266" lon="126.7966342"/>
+ <node id="9113069861" visible="true" version="1" changeset="111531618" timestamp="2021-09-22T08:59:35Z" user="user_5239402" uid="5239402" lat="37.6430230" lon="126.8032382"/>
+ <node id="9113069862" visible="true" version="1" changeset="111531618" timestamp="2021-09-22T08:59:35Z" user="user_5239402" uid="5239402" lat="37.6431200" lon="126.8035138"/>
+ <node id="9179894597" visible="true" version="4" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6492496" lon="126.7942505">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="9184352132" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6450252" lon="126.8019823"/>
+ <node id="9184352133" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6465524" lon="126.8011197"/>
+ <node id="9184352134" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6480649" lon="126.8003063"/>
+ <node id="9184352135" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6489041" lon="126.7998441"/>
+ <node id="9184352136" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6489578" lon="126.7999981"/>
+ <node id="9184352137" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6466256" lon="126.8014524"/>
+ <node id="9184352138" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6448301" lon="126.8025123"/>
+ <node id="9184352139" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6500161" lon="126.7991560"/>
+ <node id="9184352140" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6517363" lon="126.7981207"/>
+ <node id="9184352141" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6534309" lon="126.7971605"/>
+ <node id="9184352142" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6534946" lon="126.7973375"/>
+ <node id="9184352143" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402" lat="37.6501563" lon="126.7993009"/>
+ <node id="9220805474" visible="true" version="2" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6459600" lon="126.8008844"/>
+ <node id="9222835275" visible="true" version="1" changeset="113356866" timestamp="2021-11-04T05:52:31Z" user="한창훈" uid="2281401" lat="37.6495626" lon="126.7990169"/>
+ <node id="9222835276" visible="true" version="1" changeset="113356866" timestamp="2021-11-04T05:52:31Z" user="한창훈" uid="2281401" lat="37.6488856" lon="126.7994370"/>
+ <node id="9222835277" visible="true" version="1" changeset="113356866" timestamp="2021-11-04T05:52:31Z" user="한창훈" uid="2281401" lat="37.6484500" lon="126.7997187"/>
+ <node id="9222835278" visible="true" version="1" changeset="113356866" timestamp="2021-11-04T05:52:31Z" user="한창훈" uid="2281401" lat="37.6481399" lon="126.8000333"/>
+ <node id="9222835280" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6475671" lon="126.8000095"/>
+ <node id="9222835281" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6472411" lon="126.8002028"/>
+ <node id="9222883755" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6527209" lon="126.7972045"/>
+ <node id="9222883756" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6518378" lon="126.7979249"/>
+ <node id="9222883757" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6520899" lon="126.7976510"/>
+ <node id="9222883758" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6523731" lon="126.7975337"/>
+ <node id="9222883759" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6525298" lon="126.7972600"/>
+ <node id="9222883760" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6519875" lon="126.7975852"/>
+ <node id="9222883761" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6518861" lon="126.7977275"/>
+ <node id="9222883762" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6511366" lon="126.7982183"/>
+ <node id="9222883763" visible="true" version="2" changeset="113356866" timestamp="2021-11-04T05:52:31Z" user="한창훈" uid="2281401" lat="37.6497381" lon="126.7990498"/>
+ <node id="9222883764" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6488783" lon="126.7995802"/>
+ <node id="9222883765" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6481187" lon="126.8000521"/>
+ <node id="9222883766" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6478868" lon="126.8002230"/>
+ <node id="9222883767" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6472970" lon="126.8005787"/>
+ <node id="9222883768" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6474589" lon="126.8004106"/>
+ <node id="9222883769" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6465275" lon="126.8008608"/>
+ <node id="9222883770" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6460766" lon="126.8009736"/>
+ <node id="9222883772" visible="true" version="1" changeset="113356793" timestamp="2021-11-04T05:47:36Z" user="한창훈" uid="2281401" lat="37.6461854" lon="126.8010004"/>
+ <node id="9222978114" visible="true" version="2" changeset="114178112" timestamp="2021-11-24T11:26:30Z" user="한창훈" uid="2281401" lat="37.6533037" lon="126.7968023"/>
+ <node id="9222984754" visible="true" version="1" changeset="113356940" timestamp="2021-11-04T05:57:22Z" user="한창훈" uid="2281401" lat="37.6506872" lon="126.7984644"/>
+ <node id="9222984755" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6506029" lon="126.7982215"/>
+ <node id="9222984756" visible="true" version="1" changeset="113356940" timestamp="2021-11-04T05:57:22Z" user="한창훈" uid="2281401" lat="37.6522106" lon="126.7974514"/>
+ <node id="9222984757" visible="true" version="2" changeset="114020501" timestamp="2021-11-20T09:37:40Z" user="한창훈" uid="2281401" lat="37.6521568" lon="126.7972791"/>
+ <node id="9223016830" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6533482" lon="126.7968682"/>
+ <node id="9223016831" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6534508" lon="126.7970928"/>
+ <node id="9223016832" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6518801" lon="126.7980084"/>
+ <node id="9223016833" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6518725" lon="126.7979602"/>
+ <node id="9223016834" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6521185" lon="126.7976904"/>
+ <node id="9223016835" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6523931" lon="126.7975724"/>
+ <node id="9223016836" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6526658" lon="126.7973628"/>
+ <node id="9223016837" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6527745" lon="126.7972424"/>
+ <node id="9223016846" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6526127" lon="126.7972814"/>
+ <node id="9223016847" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6523583" lon="126.7975077"/>
+ <node id="9223016848" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6520722" lon="126.7976282"/>
+ <node id="9223016849" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6518944" lon="126.7978254"/>
+ <node id="9223016850" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6519219" lon="126.7977250"/>
+ <node id="9223016851" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6520129" lon="126.7976063"/>
+ <node id="9223016852" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6522283" lon="126.7974803"/>
+ <node id="9223016853" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6525448" lon="126.7972978"/>
+ <node id="9223016854" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6519262" lon="126.7974876"/>
+ <node id="9223016855" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6519580" lon="126.7975570"/>
+ <node id="9223016856" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6518482" lon="126.7977158"/>
+ <node id="9223016857" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6517932" lon="126.7979075"/>
+ <node id="9223016858" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6517036" lon="126.7976209"/>
+ <node id="9223016859" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6512823" lon="126.7978590"/>
+ <node id="9223016860" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6513757" lon="126.7981215"/>
+ <node id="9223016861" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6511297" lon="126.7981697"/>
+ <node id="9223016862" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6507082" lon="126.7983817"/>
+ <node id="9223016863" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6506491" lon="126.7982203"/>
+ <node id="9223016864" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6505519" lon="126.7982829"/>
+ <node id="9223016865" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6506167" lon="126.7984250"/>
+ <node id="9223016866" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6499500" lon="126.7988114"/>
+ <node id="9223016867" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6497160" lon="126.7989926"/>
+ <node id="9223016868" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6495600" lon="126.7989672"/>
+ <node id="9223016869" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6484150" lon="126.7996727"/>
+ <node id="9223016870" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6483395" lon="126.7997999"/>
+ <node id="9223016871" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6481331" lon="126.7999779"/>
+ <node id="9223016872" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6477934" lon="126.8000001"/>
+ <node id="9223016873" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6476424" lon="126.7999969"/>
+ <node id="9223016874" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6483571" lon="126.7995710"/>
+ <node id="9223016875" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6495399" lon="126.7988877"/>
+ <node id="9223016876" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6513860" lon="126.7982572"/>
+ <node id="9223016877" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6511381" lon="126.7982813"/>
+ <node id="9223016878" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6499783" lon="126.7989251"/>
+ <node id="9223016879" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6497456" lon="126.7991130"/>
+ <node id="9223016880" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6489027" lon="126.7996236"/>
+ <node id="9223016881" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6483992" lon="126.7998548"/>
+ <node id="9223016882" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6479510" lon="126.8002426"/>
+ <node id="9223016883" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6474723" lon="126.8004570"/>
+ <node id="9223016884" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6473216" lon="126.8006545"/>
+ <node id="9223016885" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6479777" lon="126.8003197"/>
+ <node id="9223016886" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6484488" lon="126.8000572"/>
+ <node id="9223016887" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6489351" lon="126.7997753"/>
+ <node id="9223016888" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6498135" lon="126.7992257"/>
+ <node id="9223016889" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6507697" lon="126.7986314"/>
+ <node id="9223016890" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6496402" lon="126.7990727"/>
+ <node id="9223016891" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6495636" lon="126.7990545"/>
+ <node id="9223016892" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6490216" lon="126.7994045"/>
+ <node id="9223016893" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6484782" lon="126.7997270"/>
+ <node id="9223016894" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6484486" lon="126.7997671"/>
+ <node id="9223016895" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6488506" lon="126.7995679"/>
+ <node id="9223016896" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401" lat="37.6492877" lon="126.7992925"/>
+ <node id="9255866950" visible="true" version="3" changeset="190018958" timestamp="2026-10-05T08:03:51Z" user="한창훈" uid="2281401" lat="37.6548849" lon="126.7956654">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9269438651" visible="true" version="1" changeset="114020638" timestamp="2021-11-20T09:43:40Z" user="한창훈" uid="2281401" lat="37.6516514" lon="126.7976798"/>
+ <node id="9269438652" visible="true" version="1" changeset="114020638" timestamp="2021-11-20T09:43:40Z" user="한창훈" uid="2281401" lat="37.6513221" lon="126.7978647"/>
+ <node id="9269438653" visible="true" version="1" changeset="114020638" timestamp="2021-11-20T09:43:40Z" user="한창훈" uid="2281401" lat="37.6514221" lon="126.7981420"/>
+ <node id="9269438654" visible="true" version="1" changeset="114020638" timestamp="2021-11-20T09:43:40Z" user="한창훈" uid="2281401" lat="37.6517319" lon="126.7979432"/>
+ <node id="9269446836" visible="true" version="2" changeset="114178112" timestamp="2021-11-24T11:26:30Z" user="한창훈" uid="2281401" lat="37.6532851" lon="126.7967316"/>
+ <node id="9269446837" visible="true" version="1" changeset="114020501" timestamp="2021-11-20T09:37:40Z" user="한창훈" uid="2281401" lat="37.6530185" lon="126.7968339"/>
+ <node id="9269446838" visible="true" version="1" changeset="114020501" timestamp="2021-11-20T09:37:40Z" user="한창훈" uid="2281401" lat="37.6527010" lon="126.7969800"/>
+ <node id="9269446839" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6516642" lon="126.7976017"/>
+ <node id="9269446841" visible="true" version="1" changeset="114020501" timestamp="2021-11-20T09:37:40Z" user="한창훈" uid="2281401" lat="37.6518660" lon="126.7971561"/>
+ <node id="9269446842" visible="true" version="1" changeset="114020501" timestamp="2021-11-20T09:37:40Z" user="한창훈" uid="2281401" lat="37.6519765" lon="126.7974054"/>
+ <node id="9269446843" visible="true" version="3" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6519348" lon="126.7973112">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9274182566" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6453187" lon="126.8010226"/>
+ <node id="9274182585" visible="true" version="3" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6453815" lon="126.8011738">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9274182587" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6458972" lon="126.8007141"/>
+ <node id="9274182588" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6465679" lon="126.8003217"/>
+ <node id="9274182589" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6473560" lon="126.7998257"/>
+ <node id="9274182590" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6483716" lon="126.7992682"/>
+ <node id="9274182591" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401" lat="37.6496472" lon="126.7985020"/>
+ <node id="9274182592" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6503516" lon="126.7981129"/>
+ <node id="9274213220" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6512642" lon="126.7978312"/>
+ <node id="9274213221" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6495283" lon="126.7988299"/>
+ <node id="9274213222" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6483584" lon="126.7995209"/>
+ <node id="9274213223" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6505404" lon="126.7979815"/>
+ <node id="9274213224" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6504431" lon="126.7980481">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9274213225" visible="true" version="4" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6504005" lon="126.7982367">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9274213226" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6504227" lon="126.7983236"/>
+ <node id="9274213239" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6490599" lon="126.7934407">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9274213253" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6497492" lon="126.7959514"/>
+ <node id="9274213260" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6492881" lon="126.7949061"/>
+ <node id="9274213261" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6493424" lon="126.7951230"/>
+ <node id="9274213262" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6494264" lon="126.7954412"/>
+ <node id="9274213263" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6496022" lon="126.7959284"/>
+ <node id="9274213264" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6499259" lon="126.7968423"/>
+ <node id="9274213265" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6503129" lon="126.7979868"/>
+ <node id="9274213266" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401" lat="37.6504773" lon="126.7978374"/>
+ <node id="9274443458" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6492581" lon="126.7943232">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9280248882" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6532094" lon="126.7965899">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="9436204463" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6573617" lon="126.8078027"/>
+ <node id="9436204486" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6562857" lon="126.8054483"/>
+ <node id="9436248264" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6549550" lon="126.8009203"/>
+ <node id="9436248293" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6543088" lon="126.7991734"/>
+ <node id="9436248299" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6573710" lon="126.8079273"/>
+ <node id="9436279181" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6572995" lon="126.8083128"/>
+ <node id="9436279205" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6571067" lon="126.8061034"/>
+ <node id="9436279850" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6550782" lon="126.8023112"/>
+ <node id="9436279878" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6583376" lon="126.8094887"/>
+ <node id="9436279932" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6548895" lon="126.8013806"/>
+ <node id="9436279961" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6576158" lon="126.8088673"/>
+ <node id="9436279992" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6572514" lon="126.8064430"/>
+ <node id="9436280043" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6540770" lon="126.7985603"/>
+ <node id="9436280049" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6573435" lon="126.8076667"/>
+ <node id="9436280071" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6560868" lon="126.8050408"/>
+ <node id="9436280094" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6502910" lon="126.7976755"/>
+ <node id="9436280151" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6548086" lon="126.8043163"/>
+ <node id="9436280269" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6582477" lon="126.8096476"/>
+ <node id="9436280320" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6549231" lon="126.8011459"/>
+ <node id="9436280344" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6572995" lon="126.8083241"/>
+ <node id="9436280372" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6571698" lon="126.8061599"/>
+ <node id="9436280530" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6546187" lon="126.8042337"/>
+ <node id="9436280561" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6593575" lon="126.8110639"/>
+ <node id="9436280615" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6549601" lon="126.8017095"/>
+ <node id="9436280640" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:21Z" user="octel" uid="238290" lat="37.6579414" lon="126.8096824"/>
+ <node id="9436280729" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6567912" lon="126.8060476"/>
+ <node id="9436280779" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6537974" lon="126.7977196"/>
+ <node id="9436280806" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6555662" lon="126.8044899"/>
+ <node id="9436280888" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6546588" lon="126.8040851"/>
+ <node id="9436280917" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6585552" lon="126.8103268"/>
+ <node id="9436280976" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6548941" lon="126.8015029"/>
+ <node id="9436281006" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6578240" lon="126.8094674"/>
+ <node id="9436281059" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6547344" lon="126.8003454"/>
+ <node id="9436281086" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6542250" lon="126.7989626"/>
+ <node id="9436281092" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6573528" lon="126.8078480"/>
+ <node id="9436281116" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6563219" lon="126.8055389"/>
+ <node id="9436281166" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6493780" lon="126.7950898"/>
+ <node id="9436281170" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6536765" lon="126.7974034"/>
+ <node id="9436281263" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6536060" lon="126.7972355"/>
+ <node id="9436281278" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6550257" lon="126.8025517"/>
+ <node id="9436281311" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6583651" lon="126.8098173"/>
+ <node id="9436281365" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6548837" lon="126.8014001"/>
+ <node id="9436281386" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6545207" lon="126.7997242"/>
+ <node id="9436281391" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6577242" lon="126.8090370"/>
+ <node id="9436281420" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6572066" lon="126.8065905"/>
+ <node id="9436281455" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6546525" lon="126.8001073"/>
+ <node id="9436281481" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6507212" lon="126.7988989"/>
+ <node id="9436281490" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6573887" lon="126.8077346"/>
+ <node id="9436281509" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6561680" lon="126.8051313"/>
+ <node id="9436281535" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6495912" lon="126.7957279"/>
+ <node id="9436281596" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:23Z" user="octel" uid="238290" lat="37.6549765" lon="126.8043589"/>
+ <node id="9436281781" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6582567" lon="126.8096022"/>
+ <node id="9436281835" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6549739" lon="126.8012574"/>
+ <node id="9436281863" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6573718" lon="126.8084486"/>
+ <node id="9436281895" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6572874" lon="126.8064316"/>
+ <node id="9436281944" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6539891" lon="126.7982612"/>
+ <node id="9436281967" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6558522" lon="126.8048148"/>
+ <node id="9436281991" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6505393" lon="126.7983529"/>
+ <node id="9436282047" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6546603" lon="126.8042581"/>
+ <node id="9436282079" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6593465" lon="126.8110702"/>
+ <node id="9436282235" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6573801" lon="126.8079839"/>
+ <node id="9436282259" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6569174" lon="126.8060813"/>
+ <node id="9436282299" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6465187" lon="126.8014089"/>
+ <node id="9436282312" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6538736" lon="126.7979486"/>
+ <node id="9436282342" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6556807" lon="126.8046113"/>
+ <node id="9436282460" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6588525" lon="126.8103260"/>
+ <node id="9436282539" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6578513" lon="126.8096600"/>
+ <node id="9436282601" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6548355" lon="126.8006114"/>
+ <node id="9436282632" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6542465" lon="126.7990020"/>
+ <node id="9436282639" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6573709" lon="126.8078593"/>
+ <node id="9436282665" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:25Z" user="octel" uid="238290" lat="37.6564574" lon="126.8057765"/>
+ <node id="9436283066" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6584287" lon="126.8101231"/>
+ <node id="9436283115" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6548813" lon="126.8014307"/>
+ <node id="9436283147" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6578325" lon="126.8091840"/>
+ <node id="9436283171" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6569017" lon="126.8074412"/>
+ <node id="9436283233" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6573797" lon="126.8077686"/>
+ <node id="9436283257" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6561861" lon="126.8051652"/>
+ <node id="9436283310" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6536245" lon="126.7972844"/>
+ <node id="9436283337" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6551376" lon="126.8043906"/>
+ <node id="9436283446" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6583016" lon="126.8095228"/>
+ <node id="9436283527" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6575074" lon="126.8087089"/>
+ <node id="9436283552" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6572604" lon="126.8064317"/>
+ <node id="9436283606" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6571270" lon="126.8075199"/>
+ <node id="9436283673" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6519803" lon="126.7981860"/>
+ <node id="9436283792" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6550052" lon="126.8018991"/>
+ <node id="9436283822" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6581487" lon="126.8097045"/>
+ <node id="9436283878" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:27Z" user="octel" uid="238290" lat="37.6549899" lon="126.8010460"/>
+ <node id="9436283981" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6557439" lon="126.8047018"/>
+ <node id="9436284092" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6592940" lon="126.8103362"/>
+ <node id="9436284177" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6578693" lon="126.8096599"/>
+ <node id="9436284234" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6548692" lon="126.8006900"/>
+ <node id="9436284293" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6565206" lon="126.8058556"/>
+ <node id="9436284447" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6547545" lon="126.8036673"/>
+ <node id="9436284479" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6584831" lon="126.8103383"/>
+ <node id="9436284556" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6578597" lon="126.8092860"/>
+ <node id="9436284613" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290" lat="37.6547150" lon="126.8002770"/>
+ <node id="9438269228" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:13:59Z" user="octel" uid="238290" lat="37.6478204" lon="126.8006167"/>
+ <node id="10079606413" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6804066" lon="126.7717836"/>
+ <node id="10079606414" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6783297" lon="126.7768536"/>
+ <node id="10079606415" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6759650" lon="126.7822894"/>
+ <node id="10079606416" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6756365" lon="126.7829047"/>
+ <node id="10079618317" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6752367" lon="126.7834063"/>
+ <node id="10079618318" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6747126" lon="126.7838959"/>
+ <node id="10079618319" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6739270" lon="126.7843655"/>
+ <node id="10079618320" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6678290" lon="126.7879616"/>
+ <node id="10079618321" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6608935" lon="126.7920058"/>
+ <node id="10079618322" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6544299" lon="126.7959126"/>
+ <node id="10079618323" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6502785" lon="126.7982006"/>
+ <node id="10079618324" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6502137" lon="126.7980320"/>
+ <node id="10079618325" visible="true" version="1" changeset="127093340" timestamp="2022-10-06T10:00:59Z" user="upscope" uid="12398465" lat="37.6847773" lon="126.7617076"/>
+ <node id="11211880777" visible="true" version="1" changeset="141634692" timestamp="2023-09-23T09:07:40Z" user="한창훈" uid="2281401" lat="37.6520240" lon="126.7975633"/>
+ <node id="11217752223" visible="true" version="1" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6557902" lon="126.7977928"/>
+ <node id="11217752224" visible="true" version="1" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401" lat="37.6596422" lon="126.7967028"/>
+ <node id="11368370596" visible="true" version="1" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6555154" lon="126.7974482"/>
+ <node id="11368370597" visible="true" version="1" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6551557" lon="126.7965070"/>
+ <node id="11368370603" visible="true" version="1" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6557901" lon="126.7981033"/>
+ <node id="11368370604" visible="true" version="1" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401" lat="37.6557108" lon="126.7980865"/>
+ <node id="13897982711" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6550267" lon="126.7954700">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송6단지삼거리"/>
+  <tag k="name:en" v="Baeksong 6 Complex Samgeori"/>
+  <tag k="name:ko" v="백송6단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 6 Danjisamgeori"/>
+ </node>
+ <node id="13897982712" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6549016" lon="126.7955316">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송6단지삼거리"/>
+  <tag k="name:en" v="Baeksong 6 Complex Samgeori"/>
+  <tag k="name:ko" v="백송6단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 6 Danjisamgeori"/>
+ </node>
+ <node id="13897982713" visible="true" version="2" changeset="190018958" timestamp="2026-10-05T08:03:51Z" user="한창훈" uid="2281401" lat="37.6548467" lon="126.7955625">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="13897982714" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6541687" lon="126.7959380"/>
+ <node id="13897982715" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6534702" lon="126.7963486"/>
+ <node id="13897982716" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6532739" lon="126.7964564">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="13897982717" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6531752" lon="126.7965173">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="13897982718" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6498961" lon="126.7984412"/>
+ <node id="13897982719" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6520139" lon="126.7971954">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="백송7단지삼거리"/>
+  <tag k="name:en" v="Baeksong 7 Complex Samgeori"/>
+  <tag k="name:ko" v="백송7단지삼거리"/>
+  <tag k="name:ko-Latn" v="Baeksong 7 Danjisamgeori"/>
+ </node>
+ <node id="13897982720" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6519102" lon="126.7972546">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="13897982721" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6504769" lon="126.7981178">
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="KT삼거리"/>
+ </node>
+ <node id="13897982722" visible="true" version="2" changeset="190019502" timestamp="2026-10-05T08:15:17Z" user="한창훈" uid="2281401" lat="37.6503794" lon="126.7981786">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="13897982723" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6490604" lon="126.7989259"/>
+ <node id="13897982724" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6484318" lon="126.7992972"/>
+ <node id="13897982725" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6474146" lon="126.7998969"/>
+ <node id="13897982726" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6462560" lon="126.8005810"/>
+ <node id="13897982727" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6499221" lon="126.7985098"/>
+ <node id="13897982728" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6490799" lon="126.7990015"/>
+ <node id="13897982729" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6484512" lon="126.7993712"/>
+ <node id="13897982730" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6474390" lon="126.7999700"/>
+ <node id="13897982731" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6459134" lon="126.8007699"/>
+ <node id="13897982732" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6454425" lon="126.8010521"/>
+ <node id="13897982733" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401" lat="37.6453564" lon="126.8011133">
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <way id="393484049" visible="true" version="18" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401">
+  <nd ref="806428636"/>
+  <nd ref="13897982721"/>
+  <nd ref="9274213224"/>
+  <nd ref="3966746417"/>
+  <nd ref="6070570531"/>
+  <nd ref="3966746413"/>
+  <nd ref="3966746412"/>
+  <nd ref="6070570529"/>
+  <nd ref="3966746410"/>
+  <nd ref="9274443458"/>
+  <nd ref="9179894597"/>
+  <nd ref="3966746409"/>
+  <nd ref="3966746408"/>
+  <nd ref="9274213239"/>
+  <nd ref="3008086121"/>
+  <nd ref="6550885311"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="438752533" visible="true" version="21" changeset="113356940" timestamp="2021-11-04T05:57:22Z" user="한창훈" uid="2281401">
+  <nd ref="9222978114"/>
+  <nd ref="9222883755"/>
+  <nd ref="4364321707"/>
+  <nd ref="9222883758"/>
+  <nd ref="9222883757"/>
+  <nd ref="9222883756"/>
+  <nd ref="4364321708"/>
+  <nd ref="9222883762"/>
+  <nd ref="9222984754"/>
+  <nd ref="4364321709"/>
+  <nd ref="9222883763"/>
+  <nd ref="9222883764"/>
+  <nd ref="4364321710"/>
+  <nd ref="9222835278"/>
+  <nd ref="9222883765"/>
+  <nd ref="9222883766"/>
+  <nd ref="9222883768"/>
+  <nd ref="9222883767"/>
+  <nd ref="4364321711"/>
+  <nd ref="9222883769"/>
+  <nd ref="9222883772"/>
+  <nd ref="9222883770"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="lit" v="yes"/>
+  <tag k="surface" v="paved"/>
+  <tag k="width" v="2"/>
+ </way>
+ <way id="470139943" visible="true" version="7" changeset="173482459" timestamp="2025-10-19T09:46:46Z" user="kikusui" uid="3446806">
+  <nd ref="4643699416"/>
+  <nd ref="4643699417"/>
+  <nd ref="4643699418"/>
+  <nd ref="4643699419"/>
+  <nd ref="4643699420"/>
+  <nd ref="4643699421"/>
+  <nd ref="4643699422"/>
+  <nd ref="4643699423"/>
+  <nd ref="4643699424"/>
+  <nd ref="4643699425"/>
+  <nd ref="4643699426"/>
+  <nd ref="4643699427"/>
+  <nd ref="4643699428"/>
+  <nd ref="4643699429"/>
+  <nd ref="4643699430"/>
+  <nd ref="4643699431"/>
+  <nd ref="4643699432"/>
+  <nd ref="4643699416"/>
+  <tag k="landuse" v="industrial"/>
+  <tag k="name" v="일산열병합발전소"/>
+  <tag k="name:en" v="Ilsan Combined Heat &amp; Power Plant"/>
+  <tag k="name:ja" v="一山熱併合発電所"/>
+  <tag k="operator" v="한국동서발전"/>
+  <tag k="plant:method" v="combustion"/>
+  <tag k="plant:output:electricity" v="900 MW"/>
+  <tag k="plant:output:hot_water" v="yes"/>
+  <tag k="plant:source" v="gas"/>
+  <tag k="plant:type" v="combined_cycle"/>
+  <tag k="power" v="plant"/>
+  <tag k="wikidata" v="Q11976968"/>
+ </way>
+ <way id="475299898" visible="true" version="5" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="4690629591"/>
+  <nd ref="5172386464"/>
+  <nd ref="4690629670"/>
+  <nd ref="4690629592"/>
+  <nd ref="4690629593"/>
+  <nd ref="4690629594"/>
+  <nd ref="4690629595"/>
+  <nd ref="4690629596"/>
+  <nd ref="5172386454"/>
+  <nd ref="4690629597"/>
+  <nd ref="4690629598"/>
+  <nd ref="5172386456"/>
+  <nd ref="4690629599"/>
+  <nd ref="4690629600"/>
+  <nd ref="4690629658"/>
+  <nd ref="4690629601"/>
+  <nd ref="4690629602"/>
+  <nd ref="4690629603"/>
+  <nd ref="4690629604"/>
+  <nd ref="4690629605"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="경의로256번길"/>
+  <tag k="name:en" v="Gyeongui-ro 256beon-gil"/>
+  <tag k="name:ko" v="경의로256번길"/>
+ </way>
+ <way id="475299900" visible="true" version="5" changeset="144321248" timestamp="2023-11-22T10:58:58Z" user="한창훈" uid="2281401">
+  <nd ref="11368370597"/>
+  <nd ref="11368370596"/>
+  <nd ref="4690629640"/>
+  <nd ref="4690629642"/>
+  <nd ref="4690629643"/>
+  <nd ref="4690629644"/>
+  <nd ref="4690629645"/>
+  <nd ref="4690629646"/>
+  <nd ref="4690629647"/>
+  <nd ref="4690629648"/>
+  <nd ref="4690629649"/>
+  <nd ref="4690629650"/>
+  <nd ref="4690629651"/>
+  <nd ref="4690629652"/>
+  <nd ref="4690629653"/>
+  <nd ref="4690629654"/>
+  <nd ref="4690629655"/>
+  <nd ref="4690629656"/>
+  <nd ref="4690629657"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="475299901" visible="true" version="2" changeset="89280563" timestamp="2020-08-12T05:35:45Z" user="Popolopen" uid="9447012">
+  <nd ref="4690629654"/>
+  <nd ref="7805557040"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="533092827" visible="true" version="4" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="5172386352"/>
+  <nd ref="4690629605"/>
+  <nd ref="7805538301"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="경의로256번길"/>
+  <tag k="name:en" v="Gyeongui-ro 256beon-gil"/>
+  <tag k="name:ko" v="경의로256번길"/>
+ </way>
+ <way id="533092837" visible="true" version="3" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="5172386455"/>
+  <nd ref="5172386456"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="고일로252번길"/>
+  <tag k="name:en" v="Goil-ro 252beon-gil"/>
+  <tag k="name:ko" v="고일로252번길"/>
+ </way>
+ <way id="533092838" visible="true" version="2" changeset="110047329" timestamp="2021-08-22T04:25:11Z" user="한창훈" uid="2281401">
+  <nd ref="4690629603"/>
+  <nd ref="5172386457"/>
+  <nd ref="5172386458"/>
+  <nd ref="5172386459"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="533092873" visible="true" version="4" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="7805538302"/>
+  <nd ref="4690629649"/>
+  <nd ref="5172386831"/>
+  <nd ref="9025772217"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="경의로256번길"/>
+  <tag k="name:en" v="Gyeongui-ro 256beon-gil"/>
+  <tag k="name:ko" v="경의로256번길"/>
+ </way>
+ <way id="533092877" visible="true" version="3" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="4690629658"/>
+  <nd ref="5172386841"/>
+  <nd ref="5172386842"/>
+  <nd ref="5172386843"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="고일로242번길"/>
+  <tag k="name:en" v="Goil-ro 242beon-gil"/>
+  <tag k="name:ko" v="고일로242번길"/>
+ </way>
+ <way id="617097535" visible="true" version="22" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401">
+  <nd ref="806428924"/>
+  <nd ref="9274182585"/>
+  <nd ref="9220805474"/>
+  <nd ref="13897982730"/>
+  <nd ref="13897982729"/>
+  <nd ref="13897982728"/>
+  <nd ref="13897982727"/>
+  <nd ref="9274213225"/>
+  <nd ref="806428636"/>
+  <nd ref="9269446843"/>
+  <nd ref="358924991"/>
+  <nd ref="9280248882"/>
+  <nd ref="5172386829"/>
+  <nd ref="9025772240"/>
+  <nd ref="806429054"/>
+  <nd ref="9255866950"/>
+  <nd ref="9025763293"/>
+  <nd ref="9025763295"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="경의로"/>
+  <tag k="name:el" v="Γκιόνγι-ρο"/>
+  <tag k="name:en" v="Gyeongui-ro"/>
+  <tag k="name:ja" v="京義路"/>
+  <tag k="name:ko" v="경의로"/>
+  <tag k="name:ko-Latn" v="Gyeongui-ro"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q117431117"/>
+  <tag k="wikipedia" v="ko:경의로 (고양 파주)"/>
+ </way>
+ <way id="836287245" visible="true" version="6" changeset="156577755" timestamp="2024-09-13T15:26:11Z" user="aaei924" uid="10626814">
+  <nd ref="7805538302"/>
+  <nd ref="7805538301"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="bridge:name" v="풍동2교"/>
+  <tag k="highway" v="residential"/>
+  <tag k="layer" v="1"/>
+ </way>
+ <way id="836287939" visible="true" version="3" changeset="110215850" timestamp="2021-08-25T08:51:55Z" user="한창훈" uid="2281401">
+  <nd ref="7805557039"/>
+  <nd ref="4690629658"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="836287940" visible="true" version="4" changeset="141728578" timestamp="2023-09-25T12:08:08Z" user="한창훈" uid="2281401">
+  <nd ref="7805557040"/>
+  <nd ref="7805557039"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="layer" v="1"/>
+ </way>
+ <way id="838940936" visible="true" version="8" changeset="170519107" timestamp="2025-08-16T11:39:38Z" user="한창훈" uid="2281401">
+  <nd ref="8163385023"/>
+  <nd ref="4688929904"/>
+  <nd ref="4688930222"/>
+  <nd ref="4688929936"/>
+  <nd ref="4688929948"/>
+  <nd ref="4688929967"/>
+  <nd ref="4712721531"/>
+  <nd ref="4688930192"/>
+  <nd ref="4688930223"/>
+  <nd ref="4688930206"/>
+  <nd ref="4688929978"/>
+  <nd ref="4688929922"/>
+  <nd ref="4688930211"/>
+  <nd ref="4688929976"/>
+  <nd ref="4688929918"/>
+  <nd ref="4688930203"/>
+  <nd ref="4688929917"/>
+  <nd ref="4688930198"/>
+  <nd ref="4688929953"/>
+  <nd ref="4688930202"/>
+  <nd ref="4688929895"/>
+  <nd ref="4688930218"/>
+  <nd ref="4688929924"/>
+  <nd ref="4688930196"/>
+  <nd ref="4686234613"/>
+  <nd ref="4686234599"/>
+  <nd ref="4686234558"/>
+  <nd ref="4686234427"/>
+  <nd ref="4686234540"/>
+  <nd ref="4686234577"/>
+  <nd ref="4686234549"/>
+  <nd ref="4686234601"/>
+  <nd ref="4686234515"/>
+  <nd ref="11217752224"/>
+  <nd ref="4686234608"/>
+  <nd ref="4686234612"/>
+  <nd ref="4686234396"/>
+  <nd ref="4686234390"/>
+  <nd ref="4686234393"/>
+  <nd ref="4686234403"/>
+  <nd ref="4686234402"/>
+  <nd ref="4712721530"/>
+  <nd ref="4712721526"/>
+  <nd ref="4686234580"/>
+  <nd ref="4712721525"/>
+  <nd ref="4686234489"/>
+  <nd ref="4712721524"/>
+  <nd ref="4686234430"/>
+  <nd ref="4712721523"/>
+  <nd ref="4686234579"/>
+  <nd ref="4686234443"/>
+  <nd ref="4686234478"/>
+  <nd ref="4712721529"/>
+  <nd ref="4686234411"/>
+  <nd ref="4686234514"/>
+  <nd ref="4712721532"/>
+  <nd ref="4712721533"/>
+  <nd ref="4686234566"/>
+  <nd ref="8163385024"/>
+  <nd ref="8163385026"/>
+  <nd ref="4686234604"/>
+  <nd ref="4712721535"/>
+  <nd ref="4712721536"/>
+  <nd ref="4686234397"/>
+  <nd ref="4686234471"/>
+  <nd ref="4686234504"/>
+  <nd ref="4686234488"/>
+  <nd ref="4686234493"/>
+  <nd ref="4686234506"/>
+  <nd ref="4686234526"/>
+  <nd ref="4686234456"/>
+  <nd ref="9034290194"/>
+  <nd ref="4712721539"/>
+  <nd ref="4686234496"/>
+  <nd ref="4686234571"/>
+  <nd ref="4686234568"/>
+  <nd ref="4686234590"/>
+  <nd ref="4686234527"/>
+  <nd ref="4686234451"/>
+  <nd ref="4686234437"/>
+  <nd ref="5345042608"/>
+  <nd ref="4690612700"/>
+  <nd ref="4690612697"/>
+  <nd ref="4690612698"/>
+  <nd ref="4690612695"/>
+  <nd ref="4690612705"/>
+  <nd ref="4690612692"/>
+  <nd ref="4690612703"/>
+  <nd ref="4690612696"/>
+  <nd ref="4690612693"/>
+  <nd ref="4690612701"/>
+  <nd ref="4690612704"/>
+  <nd ref="4712721537"/>
+  <nd ref="4712721538"/>
+  <nd ref="4690612706"/>
+  <nd ref="4690612710"/>
+  <nd ref="4690612694"/>
+  <nd ref="4690612691"/>
+  <nd ref="4690612709"/>
+  <nd ref="4688929927"/>
+  <nd ref="4688929896"/>
+  <nd ref="4688929915"/>
+  <nd ref="4688930221"/>
+  <nd ref="4688930204"/>
+  <nd ref="4688929949"/>
+  <nd ref="4688929923"/>
+  <nd ref="4688929899"/>
+  <nd ref="4688930212"/>
+  <nd ref="4688930209"/>
+  <nd ref="4688930208"/>
+  <nd ref="4688930216"/>
+  <nd ref="8163385027"/>
+  <nd ref="8163385025"/>
+  <nd ref="8163385023"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="stream"/>
+ </way>
+ <way id="877392568" visible="true" version="7" changeset="170474669" timestamp="2025-08-15T10:43:20Z" user="한창훈" uid="2281401">
+  <nd ref="5344338746"/>
+  <nd ref="4686234613"/>
+  <nd ref="5344338747"/>
+  <nd ref="9034290210"/>
+  <nd ref="5344338745"/>
+  <nd ref="5344338744"/>
+  <nd ref="5344338743"/>
+  <nd ref="5344338741"/>
+  <nd ref="8163365922"/>
+  <nd ref="8163365923"/>
+  <nd ref="11217752223"/>
+  <nd ref="5344338742"/>
+  <nd ref="5344338740"/>
+  <nd ref="5344338739"/>
+  <nd ref="5344338738"/>
+  <nd ref="9034290196"/>
+  <nd ref="5344338735"/>
+  <nd ref="5344338736"/>
+  <nd ref="9034290193"/>
+  <nd ref="5344338737"/>
+  <nd ref="5344338734"/>
+  <nd ref="5344338733"/>
+  <nd ref="5344338732"/>
+  <nd ref="5344338731"/>
+  <nd ref="5344338728"/>
+  <tag k="name" v="풍동천"/>
+  <tag k="name:el" v="Πούνγκντονγκτσον"/>
+  <tag k="waterway" v="stream"/>
+ </way>
+ <way id="888564820" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465">
+  <nd ref="8261177359"/>
+  <nd ref="8261177358"/>
+  <tag k="cables" v="6"/>
+  <tag k="circuits" v="2"/>
+  <tag k="frequency" v="60"/>
+  <tag k="power" v="line"/>
+  <tag k="voltage" v="154000"/>
+ </way>
+ <way id="888564824" visible="true" version="3" changeset="127207898" timestamp="2022-10-08T15:21:47Z" user="upscope" uid="12398465">
+  <nd ref="8261177356"/>
+  <nd ref="10079618324"/>
+  <nd ref="8261177355"/>
+  <nd ref="8261177354"/>
+  <nd ref="8261177353"/>
+  <nd ref="8261177356"/>
+  <tag k="frequency" v="60"/>
+  <tag k="location" v="outdoor"/>
+  <tag k="name" v="일산변전소"/>
+  <tag k="name:en" v="Ilsan Substation"/>
+  <tag k="name:ko" v="일산변전소"/>
+  <tag k="operator" v="한국전력공사"/>
+  <tag k="operator:en" v="Korea Electric Power Corporation"/>
+  <tag k="operator:ko" v="한국전력공사"/>
+  <tag k="operator:short" v="KEPCO"/>
+  <tag k="operator:wikidata" v="Q486737"/>
+  <tag k="power" v="substation"/>
+  <tag k="substation" v="distribution"/>
+  <tag k="voltage" v="154000"/>
+ </way>
+ <way id="888564825" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465">
+  <nd ref="8261177359"/>
+  <nd ref="8261177357"/>
+  <tag k="cables" v="6"/>
+  <tag k="circuits" v="2"/>
+  <tag k="frequency" v="60"/>
+  <tag k="power" v="line"/>
+  <tag k="voltage" v="154000"/>
+ </way>
+ <way id="888564826" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465">
+  <nd ref="3181505066"/>
+  <nd ref="8261177347"/>
+  <nd ref="3181504087"/>
+  <nd ref="8261177361"/>
+  <nd ref="8261177360"/>
+  <nd ref="8261177359"/>
+  <tag k="cables" v="12"/>
+  <tag k="circuits" v="4"/>
+  <tag k="frequency" v="60"/>
+  <tag k="power" v="line"/>
+  <tag k="voltage" v="154000"/>
+ </way>
+ <way id="994113038" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402">
+  <nd ref="9113069861"/>
+  <nd ref="9184352132"/>
+  <nd ref="9184352133"/>
+  <nd ref="9184352134"/>
+  <nd ref="9184352135"/>
+  <nd ref="9184352136"/>
+  <nd ref="9184352137"/>
+  <nd ref="9184352138"/>
+  <nd ref="9113069862"/>
+  <nd ref="9113069861"/>
+  <tag k="landuse" v="railway"/>
+ </way>
+ <way id="994113039" visible="true" version="1" changeset="112722848" timestamp="2021-10-20T03:24:39Z" user="user_5239402" uid="5239402">
+  <nd ref="9184352135"/>
+  <nd ref="9184352139"/>
+  <nd ref="9184352140"/>
+  <nd ref="9184352141"/>
+  <nd ref="9184352142"/>
+  <nd ref="9184352143"/>
+  <nd ref="9184352136"/>
+  <nd ref="9184352135"/>
+  <tag k="landuse" v="railway"/>
+ </way>
+ <way id="998967692" visible="true" version="3" changeset="141634692" timestamp="2023-09-23T09:07:40Z" user="한창훈" uid="2281401">
+  <nd ref="9222883755"/>
+  <nd ref="9222883759"/>
+  <nd ref="9222984756"/>
+  <nd ref="11211880777"/>
+  <nd ref="9222883760"/>
+  <nd ref="9222883761"/>
+  <nd ref="9222883756"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="998968368" visible="true" version="2" changeset="141634692" timestamp="2023-09-23T09:07:40Z" user="한창훈" uid="2281401">
+  <nd ref="9222883763"/>
+  <nd ref="9222835275"/>
+  <nd ref="9222835276"/>
+  <nd ref="9222835277"/>
+  <nd ref="4364321710"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="998968816" visible="true" version="2" changeset="141634692" timestamp="2023-09-23T09:07:40Z" user="한창훈" uid="2281401">
+  <nd ref="9222984754"/>
+  <nd ref="9222984755"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="998972208" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016830"/>
+  <nd ref="9223016831"/>
+  <nd ref="9223016832"/>
+  <nd ref="9223016833"/>
+  <nd ref="9223016834"/>
+  <nd ref="9223016835"/>
+  <nd ref="9223016836"/>
+  <nd ref="9223016837"/>
+  <nd ref="9223016830"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972210" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016846"/>
+  <nd ref="9223016847"/>
+  <nd ref="9223016848"/>
+  <nd ref="9223016849"/>
+  <nd ref="9223016850"/>
+  <nd ref="9223016851"/>
+  <nd ref="9223016852"/>
+  <nd ref="9223016853"/>
+  <nd ref="9223016846"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972211" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016854"/>
+  <nd ref="9223016855"/>
+  <nd ref="9223016856"/>
+  <nd ref="9223016857"/>
+  <nd ref="9223016858"/>
+  <nd ref="9223016854"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972212" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016859"/>
+  <nd ref="9223016860"/>
+  <nd ref="9223016861"/>
+  <nd ref="9223016862"/>
+  <nd ref="9223016863"/>
+  <nd ref="9223016859"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972213" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016864"/>
+  <nd ref="9223016865"/>
+  <nd ref="9223016866"/>
+  <nd ref="9223016867"/>
+  <nd ref="9223016868"/>
+  <nd ref="9223016869"/>
+  <nd ref="9223016870"/>
+  <nd ref="9223016871"/>
+  <nd ref="9223016872"/>
+  <nd ref="9223016873"/>
+  <nd ref="9223016874"/>
+  <nd ref="9223016875"/>
+  <nd ref="9223016864"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972214" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016876"/>
+  <nd ref="9223016877"/>
+  <nd ref="9223016878"/>
+  <nd ref="9223016879"/>
+  <nd ref="9223016880"/>
+  <nd ref="9223016881"/>
+  <nd ref="9223016882"/>
+  <nd ref="9223016883"/>
+  <nd ref="9223016884"/>
+  <nd ref="9223016885"/>
+  <nd ref="9223016886"/>
+  <nd ref="9223016887"/>
+  <nd ref="9223016888"/>
+  <nd ref="9223016889"/>
+  <nd ref="9223016876"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="998972215" visible="true" version="1" changeset="113357368" timestamp="2021-11-04T06:19:53Z" user="한창훈" uid="2281401">
+  <nd ref="9223016890"/>
+  <nd ref="9223016891"/>
+  <nd ref="9223016892"/>
+  <nd ref="9223016893"/>
+  <nd ref="9223016894"/>
+  <nd ref="9223016895"/>
+  <nd ref="9223016896"/>
+  <nd ref="9223016890"/>
+  <tag k="landuse" v="forest"/>
+ </way>
+ <way id="1004657929" visible="true" version="2" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401">
+  <nd ref="9269446836"/>
+  <nd ref="9269446837"/>
+  <nd ref="9269446838"/>
+  <nd ref="9222984757"/>
+  <nd ref="9269446842"/>
+  <nd ref="9269446839"/>
+  <nd ref="9274213220"/>
+  <nd ref="9222984755"/>
+  <nd ref="9274213226"/>
+  <nd ref="9274213221"/>
+  <nd ref="9274213222"/>
+  <nd ref="9222835280"/>
+  <nd ref="9222835281"/>
+  <nd ref="9222883770"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1004658856" visible="true" version="2" changeset="162071792" timestamp="2025-02-03T06:14:03Z" user="chiho_kang" uid="10604125">
+  <nd ref="9269438651"/>
+  <nd ref="9269438652"/>
+  <nd ref="9269438653"/>
+  <nd ref="9269438654"/>
+  <nd ref="9269438651"/>
+  <tag k="addr:city" v="고양시"/>
+  <tag k="addr:district" v="일산동구"/>
+  <tag k="addr:housenumber" v="234"/>
+  <tag k="addr:postcode" v="10442"/>
+  <tag k="addr:province" v="경기도"/>
+  <tag k="addr:street" v="경의로"/>
+  <tag k="addr:subdistrict" v="백석동"/>
+  <tag k="amenity" v="fuel"/>
+  <tag k="name" v="SK행복충전 신우에너지 신도시충전소"/>
+ </way>
+ <way id="1005170988" visible="true" version="1" changeset="114086931" timestamp="2021-11-22T08:25:46Z" user="한창훈" uid="2281401">
+  <nd ref="9274182566"/>
+  <nd ref="9274182587"/>
+  <nd ref="9274182588"/>
+  <nd ref="9274182589"/>
+  <nd ref="9274182590"/>
+  <nd ref="9274182591"/>
+  <nd ref="9274182592"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1005173124" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401">
+  <nd ref="9269446841"/>
+  <nd ref="9274213223"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1005173125" visible="true" version="2" changeset="170045186" timestamp="2025-08-06T08:58:58Z" user="Wolframite74" uid="20102979">
+  <nd ref="9274213223"/>
+  <nd ref="9274213224"/>
+  <nd ref="9274182592"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1005173126" visible="true" version="3" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401">
+  <nd ref="9274182592"/>
+  <nd ref="13897982722"/>
+  <nd ref="9274213225"/>
+  <nd ref="9274213226"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="crossing:markings" v="yes"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1005173144" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401">
+  <nd ref="9274213253"/>
+  <nd ref="9274213266"/>
+  <nd ref="9274213223"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1005173149" visible="true" version="1" changeset="114087258" timestamp="2021-11-22T08:34:57Z" user="한창훈" uid="2281401">
+  <nd ref="9274213260"/>
+  <nd ref="9274213261"/>
+  <nd ref="9274213262"/>
+  <nd ref="9274213263"/>
+  <nd ref="9274213264"/>
+  <nd ref="9274213265"/>
+  <nd ref="9274182592"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1023230533" visible="true" version="2" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <nd ref="9436281481"/>
+  <nd ref="9436283673"/>
+  <nd ref="9436281263"/>
+  <tag k="boundary" v="postal_code"/>
+ </way>
+ <way id="1023230583" visible="true" version="1" changeset="116419803" timestamp="2022-01-21T09:04:29Z" user="octel" uid="238290">
+  <nd ref="9436281263"/>
+  <nd ref="9436283310"/>
+  <nd ref="9436281170"/>
+  <nd ref="9436280779"/>
+  <nd ref="9436282312"/>
+  <nd ref="9436281944"/>
+  <nd ref="9436280043"/>
+  <nd ref="9436281086"/>
+  <nd ref="9436282632"/>
+  <nd ref="9436248293"/>
+  <nd ref="9436281386"/>
+  <nd ref="9436281455"/>
+  <nd ref="9436284613"/>
+  <nd ref="9436281059"/>
+  <nd ref="9436282601"/>
+  <nd ref="9436284234"/>
+  <nd ref="9436248264"/>
+  <nd ref="9436283878"/>
+  <nd ref="9436280320"/>
+  <nd ref="9436281835"/>
+  <nd ref="9436279932"/>
+  <nd ref="9436281365"/>
+  <nd ref="9436283115"/>
+  <nd ref="9436280976"/>
+  <nd ref="9436280615"/>
+  <nd ref="9436283792"/>
+  <nd ref="9436279850"/>
+  <nd ref="9436281278"/>
+  <nd ref="9436284447"/>
+  <nd ref="9436280888"/>
+  <nd ref="9436280530"/>
+  <nd ref="9436282047"/>
+  <nd ref="9436280151"/>
+  <nd ref="9436281596"/>
+  <nd ref="9436283337"/>
+  <nd ref="9436280806"/>
+  <nd ref="9436282342"/>
+  <nd ref="9436283981"/>
+  <nd ref="9436281967"/>
+  <nd ref="9436280071"/>
+  <nd ref="9436281509"/>
+  <nd ref="9436283257"/>
+  <nd ref="9436204486"/>
+  <nd ref="9436281116"/>
+  <nd ref="9436282665"/>
+  <nd ref="9436284293"/>
+  <nd ref="9436280729"/>
+  <nd ref="9436282259"/>
+  <nd ref="9436279205"/>
+  <nd ref="9436280372"/>
+  <nd ref="9436281895"/>
+  <nd ref="9436283552"/>
+  <nd ref="9436279992"/>
+  <nd ref="9436281420"/>
+  <nd ref="9436283171"/>
+  <nd ref="9436283606"/>
+  <nd ref="9436280049"/>
+  <nd ref="9436281490"/>
+  <nd ref="9436283233"/>
+  <nd ref="9436204463"/>
+  <nd ref="9436281092"/>
+  <nd ref="9436282639"/>
+  <nd ref="9436248299"/>
+  <nd ref="9436282235"/>
+  <nd ref="9436279181"/>
+  <nd ref="9436280344"/>
+  <nd ref="9436281863"/>
+  <nd ref="9436283527"/>
+  <nd ref="9436279961"/>
+  <nd ref="9436281391"/>
+  <nd ref="9436283147"/>
+  <nd ref="9436284556"/>
+  <nd ref="9436281006"/>
+  <nd ref="9436282539"/>
+  <nd ref="9436284177"/>
+  <nd ref="9436280640"/>
+  <nd ref="9436283822"/>
+  <nd ref="9436280269"/>
+  <nd ref="9436281781"/>
+  <nd ref="9436283446"/>
+  <nd ref="9436279878"/>
+  <nd ref="9436281311"/>
+  <nd ref="9436283066"/>
+  <nd ref="9436284479"/>
+  <nd ref="9436280917"/>
+  <nd ref="9436282460"/>
+  <nd ref="9436284092"/>
+  <nd ref="9436280561"/>
+  <nd ref="9436282079"/>
+  <tag k="boundary" v="postal_code"/>
+ </way>
+ <way id="1023230632" visible="true" version="2" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <nd ref="9436281481"/>
+  <nd ref="9436281991"/>
+  <nd ref="9436280094"/>
+  <nd ref="9436281535"/>
+  <nd ref="9436281166"/>
+  <tag k="boundary" v="postal_code"/>
+ </way>
+ <way id="1023457038" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <nd ref="9436282299"/>
+  <nd ref="9438269228"/>
+  <nd ref="9436281481"/>
+  <tag k="boundary" v="postal_code"/>
+ </way>
+ <way id="1101441616" visible="true" version="2" changeset="127102556" timestamp="2022-10-06T13:02:57Z" user="upscope" uid="12398465">
+  <nd ref="10079618325"/>
+  <nd ref="10079606413"/>
+  <nd ref="10079606414"/>
+  <nd ref="10079606415"/>
+  <nd ref="10079606416"/>
+  <nd ref="10079618317"/>
+  <nd ref="10079618318"/>
+  <nd ref="10079618319"/>
+  <nd ref="10079618320"/>
+  <nd ref="10079618321"/>
+  <nd ref="10079618322"/>
+  <nd ref="10079618323"/>
+  <nd ref="10079618324"/>
+  <tag k="circuits" v="2"/>
+  <tag k="frequency" v="60"/>
+  <tag k="layer" v="-1"/>
+  <tag k="location" v="underground"/>
+  <tag k="power" v="cable"/>
+  <tag k="voltage" v="154000"/>
+ </way>
+ <way id="1210226942" visible="true" version="1" changeset="141634692" timestamp="2023-09-23T09:07:40Z" user="한창훈" uid="2281401">
+  <nd ref="9269446842"/>
+  <nd ref="11211880777"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1225885111" visible="true" version="1" changeset="144322225" timestamp="2023-11-22T11:28:48Z" user="한창훈" uid="2281401">
+  <nd ref="4690629605"/>
+  <nd ref="4690629606"/>
+  <nd ref="4690629607"/>
+  <nd ref="4690629608"/>
+  <nd ref="4690629609"/>
+  <nd ref="4690629610"/>
+  <nd ref="4690629611"/>
+  <nd ref="4690629612"/>
+  <nd ref="4690629613"/>
+  <nd ref="9025785993"/>
+  <nd ref="11368370604"/>
+  <nd ref="11368370603"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="고일로196번길"/>
+  <tag k="name:en" v="Goil-ro 196beon-gil"/>
+  <tag k="name:ko" v="고일로196번길"/>
+ </way>
+ <way id="1524793117" visible="true" version="1" changeset="183424278" timestamp="2026-05-31T02:36:21Z" user="한창훈" uid="2281401">
+  <nd ref="13897982711"/>
+  <nd ref="13897982712"/>
+  <nd ref="13897982713"/>
+  <nd ref="13897982714"/>
+  <nd ref="13897982715"/>
+  <nd ref="13897982716"/>
+  <nd ref="13897982717"/>
+  <nd ref="13897982719"/>
+  <nd ref="13897982720"/>
+  <nd ref="13897982721"/>
+  <nd ref="13897982722"/>
+  <nd ref="13897982718"/>
+  <nd ref="13897982723"/>
+  <nd ref="13897982724"/>
+  <nd ref="13897982725"/>
+  <nd ref="13897982726"/>
+  <nd ref="13897982731"/>
+  <nd ref="13897982732"/>
+  <nd ref="13897982733"/>
+  <nd ref="806428924"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="경의로"/>
+  <tag k="name:el" v="Γκιόνγι-ρο"/>
+  <tag k="name:en" v="Gyeongui-ro"/>
+  <tag k="name:ja" v="京義路"/>
+  <tag k="name:ko" v="경의로"/>
+  <tag k="name:ko-Latn" v="Gyeongui-ro"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q117431117"/>
+  <tag k="wikipedia" v="ko:경의로 (고양 파주)"/>
+ </way>
+ <relation id="13704457" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <member type="way" ref="1023457037" role="outer"/>
+  <member type="way" ref="1023230447" role="outer"/>
+  <member type="way" ref="1023230448" role="outer"/>
+  <member type="way" ref="1023230446" role="outer"/>
+  <member type="way" ref="1023230497" role="outer"/>
+  <member type="way" ref="1023457038" role="outer"/>
+  <member type="way" ref="1023230533" role="outer"/>
+  <member type="way" ref="1023230583" role="outer"/>
+  <tag k="boundary" v="postal_code"/>
+  <tag k="name" v="10453"/>
+  <tag k="source" v="도로명주소"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="13704466" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <member type="way" ref="1023457038" role="outer"/>
+  <member type="way" ref="1023230643" role="outer"/>
+  <member type="way" ref="1023230537" role="outer"/>
+  <member type="way" ref="1023230579" role="outer"/>
+  <member type="way" ref="1023230632" role="outer"/>
+  <tag k="boundary" v="postal_code"/>
+  <tag k="name" v="10443"/>
+  <tag k="source" v="도로명주소"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="13704467" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <member type="way" ref="1023230533" role="outer"/>
+  <member type="way" ref="1023230632" role="outer"/>
+  <member type="way" ref="1023230511" role="outer"/>
+  <member type="way" ref="1023230525" role="outer"/>
+  <member type="way" ref="1023230576" role="outer"/>
+  <tag k="boundary" v="postal_code"/>
+  <tag k="name" v="10442"/>
+  <tag k="source" v="도로명주소"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="13704553" visible="true" version="1" changeset="116450751" timestamp="2022-01-21T23:14:01Z" user="octel" uid="238290">
+  <member type="way" ref="1023230586" role="outer"/>
+  <member type="way" ref="1023230639" role="outer"/>
+  <member type="way" ref="1023230615" role="outer"/>
+  <member type="way" ref="1023230566" role="outer"/>
+  <member type="way" ref="1023230627" role="outer"/>
+  <member type="way" ref="1023230583" role="outer"/>
+  <member type="way" ref="1023457119" role="outer"/>
+  <member type="way" ref="1023457118" role="outer"/>
+  <tag k="boundary" v="postal_code"/>
+  <tag k="name" v="10300"/>
+  <tag k="source" v="도로명주소"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>

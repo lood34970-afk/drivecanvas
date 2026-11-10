@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+*.iml
+local.properties
+*.jks
+*.keystore
+keystore.properties
+__pycache__/
+*.pyc
+
+# 제출용 release APK만 커밋
+apk/*.apk
+!apk/*_release.apk
