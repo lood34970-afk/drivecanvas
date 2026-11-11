@@ -11,11 +11,13 @@ Pleos Connect AVD v2.1에서 release APK를 실행하고 Virtual Console로 기�
 
 **1. 완주 시나리오 (2분 5초)** — 모양 우선·시간 우선 코스 비교 → 드라이브 시작 → 주행 중 안내 → 정차 후 완주 결과
 
-<!-- ▼ 여기에 02_DriveCanvas_완주_자막.mp4 를 끌어다 놓기 -->
+▶ [완주 시나리오 영상 보기 (mp4, 5.3MB)](https://github.com/lood34970-afk/drivecanvas/releases/download/v1.0/DriveCanvas_demo_complete.mp4)
 
 **2. 경로 이탈 시나리오 (1분 40초)** — 경로를 벗어나면 무리하게 되돌리지 않고 출발지로 안전하게 안내한 뒤 조기 종료 결과를 보여 준다
 
-<!-- ▼ 여기에 03_DriveCanvas_경로이탈_자막.mp4 를 끌어다 놓기 -->
+▶ [경로 이탈 시나리오 영상 보기 (mp4, 4.0MB)](https://github.com/lood34970-afk/drivecanvas/releases/download/v1.0/DriveCanvas_demo_offroute.mp4)
+
+APK와 영상 전체: [Release v1.0](https://github.com/lood34970-afk/drivecanvas/releases/tag/v1.0)
 
 <!-- ▼ 여기에 YouTube 링크: - YouTube: https://youtu.be/... -->
 
