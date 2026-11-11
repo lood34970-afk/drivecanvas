@@ -19,6 +19,11 @@
             android:exported="true"
             android:screenOrientation="landscape"
             android:theme="@style/Theme.DriveCanvas">
+            <!-- 주행 안내 화면을 주행 중에도 표시하기 위한 운전자 주의분산 최적화 선언.
+                 코스 선택·결과 화면은 앱이 주행 중 자체적으로 잠근다. -->
+            <meta-data
+                android:name="distractionOptimized"
+                android:value="true" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
