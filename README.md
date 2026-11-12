@@ -42,8 +42,8 @@ APK와 영상 전체: [Release v1.0](https://github.com/lood34970-afk/drivecanva
 
 ## 제출물
 
-- 팀: 설계3팀
-- 실행 APK: [`apk/설계3팀_DriveCanvas_release.apk`](apk/) — Pleos Connect AVD v2.1에 설치해 실행한다.
+- 팀: 설계3.5팀
+- 실행 APK: [`apk/설계3.5팀_DriveCanvas_release.apk`](apk/) — Pleos Connect AVD v2.1에 설치해 실행한다.
 - 소스 빌드: `prototype/` 폴더에서 `./gradlew.bat :app:assembleRelease` (Pleos Vehicle SDK 2.3.2, NaviHelper 3.0.5는 Pleos Maven 저장소에서 받는다)
 
 ## 데이터 출처
